@@ -74,11 +74,13 @@ for epoch in range(epochs):
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![image](https://github.com/user-attachments/assets/54149171-92cb-4fed-bd0a-e9ef0d16638c)
+![image](https://github.com/user-attachments/assets/7a27f317-09d4-4f3d-a672-f5d7bb8174cd)
+
 
 ### Predictions 
 
-![image](https://github.com/user-attachments/assets/753a0aea-fd8d-4e99-badc-b7efbc03964c)
+![image](https://github.com/user-attachments/assets/5f5037ef-c693-44d9-adb3-ab57fe963f60)
+
 
 ## Result
 
